@@ -1,4 +1,7 @@
-# eanbit-ml
+# Introduction to Machine Learning and modeling for Big Data
 
-
-# Introduction to Machine Learning
+- Essential Tools and Libraries
+- Data Analysis
+- Building Machine Learning Models
+- References
+- Resources
